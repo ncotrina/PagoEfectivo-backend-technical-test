@@ -1,0 +1,1 @@
+# PagoEfectivo-backend-technical-test
