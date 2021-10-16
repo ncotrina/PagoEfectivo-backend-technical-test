@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Promocion.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Promocion.Api.Controllers.PromocionController">
+            <summary>
+            Controller Promocion
+            </summary>
+        </member>
+        <member name="F:Promocion.Api.Controllers.PromocionController.PromocionServices">
+            <summary>
+            Servicio Promoción
+            </summary>
+        </member>
+        <member name="M:Promocion.Api.Controllers.PromocionController.#ctor(ApplicationServices.Services.IPromocionServices)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="promocionServices"></param>
+        </member>
+        <member name="M:Promocion.Api.Controllers.PromocionController.GetAll">
+            <summary>
+            Obtener todas las promociones
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Promocion.Api.Controllers.PromocionController.Insert(ApplicationServices.Dto.Promociones.PromocionDto)">
+            <summary>
+            Crear una nueva promoción
+            </summary>
+            <param name="promocionDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Promocion.Api.Controllers.PromocionController.Update(ApplicationServices.Dto.Promociones.PromocionDto)">
+            <summary>
+            Modificar una promoción - Canjear Promoción
+            </summary>
+            <param name="promocionDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Promocion.Api.Controllers.PromocionController.GetByCodigo(System.String)">
+            <summary>
+            Obtener una promoción por el codigo y estado
+            </summary>
+            <param name="codigo"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

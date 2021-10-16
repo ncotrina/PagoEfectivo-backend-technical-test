@@ -1,0 +1,15 @@
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\bin\Debug\net5.0\ApplicationServices.deps.json
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\bin\Debug\net5.0\ApplicationServices.dll
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\bin\Debug\net5.0\ref\ApplicationServices.dll
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\bin\Debug\net5.0\ApplicationServices.pdb
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\bin\Debug\net5.0\Domains.dll
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\bin\Debug\net5.0\Domains.pdb
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\obj\Debug\net5.0\ApplicationServices.csproj.AssemblyReference.cache
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\obj\Debug\net5.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\obj\Debug\net5.0\ApplicationServices.AssemblyInfoInputs.cache
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\obj\Debug\net5.0\ApplicationServices.AssemblyInfo.cs
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\obj\Debug\net5.0\ApplicationServices.csproj.CoreCompileInputs.cache
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\obj\Debug\net5.0\ApplicationServices.csproj.CopyComplete
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\obj\Debug\net5.0\ApplicationServices.dll
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\obj\Debug\net5.0\ref\ApplicationServices.dll
+D:\RepositoriosNicky\PagoEfectivo\PagoEfectivo\ApplicationServices\obj\Debug\net5.0\ApplicationServices.pdb
